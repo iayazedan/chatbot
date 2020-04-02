@@ -1,0 +1,5 @@
+---
+applications:
+- name: horizonbot
+  instances: 1
+  memory: 256M
